@@ -1,0 +1,1 @@
+Run the local server exe with the /regserver parameter (requires admin privilege), which will create the entry that appears in the ASCOM Chooser. This registration only needs to be done once on each PC. Use the /unregserver parameter to unregister the server when no longer required. Never use REGASM on the local server executable, this way lies confusion and much time wasting! 
